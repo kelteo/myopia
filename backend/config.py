@@ -1,2 +1,2 @@
-DATABASE_URL = 'your_database_url_here'
-SECRET_KEY = 'your_secret_key_here'
+DATABASE_URL = 'postgresql://postgres:oPPzBpxyfjSGlBzbXlvUjRJmTKQOksGR@postgres.railway.internal:5432/railway'
+SECRET_KEY = '10111213'
