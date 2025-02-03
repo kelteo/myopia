@@ -1,4 +1,4 @@
 import os
 
-DATABASE_URL = os.getenv("DATABASE_URL", "postgresql://postgres:oPPzBpxyfjSGlBzbXlvUjRJmTKQOksGR@postgres.railway.internal:5432/railway")
-SECRET_KEY = os.getenv("SECRET_KEY", "10111213")
+DATABASE_URL = os.getenv("DATABASE_URL", "your_postgres_url_here")
+SECRET_KEY = os.getenv("SECRET_KEY", "your_secret_key_here")
