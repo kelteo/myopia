@@ -1,2 +1,2 @@
-DATABASE_URL = 'your_database_url_here'
-SECRET_KEY = 'your_secret_key_here'
+DATABASE_URL = 'postgresql://${{PGUSER}}:${{POSTGRES_PASSWORD}}@${{RAILWAY_PRIVATE_DOMAIN}}:5432/${{PGDATABASE}}'
+SECRET_KEY = '10111213'
