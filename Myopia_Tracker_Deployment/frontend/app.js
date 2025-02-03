@@ -1,1 +1,0 @@
-console.log('Myopia Tracker Frontend Loaded');

@@ -1,7 +1,0 @@
-flask
-requests
-fpdf
-matplotlib
-numpy
-pandas
-gunicorn
